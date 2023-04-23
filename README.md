@@ -15,7 +15,7 @@ Relationships were clearly defined between tables that shared similar keys follo
 ## Analysis and Visuals
 ![](Nestle_Dashboard.JPG)
 
-The analysis of Nestle Nig plc's statement of financial position reveals some important insights that can inform future decision-making:
+**The analysis of Nestle Nig Plc's statement of financial position reveals some important insights that can inform future decision-making:**
 - The company's improved cash ratio of 0.54:1 in 2022 indicates that Nestle Nig plc has greater ability to cover its short-term obligations with its available cash and cash equivalents. This is a positive development, but the company may still need to consider ways to improve its cash flow management and ensure that it has sufficient liquidity to meet its obligations.
 
 - The decline in asset turnover from 1.13 times in 2021 to 1.08 times in 2022 is a cause for concern, as it suggests that the company is becoming less efficient in using its assets to generate revenue. Given that the longer receivable collection period is largely responsible for this decline, Nestle Nig plc should explore ways to improve its accounts receivable management, such as offering incentives for early payment or reassessing its credit policies.
