@@ -13,7 +13,10 @@ Relationships were clearly defined between tables that shared similar keys follo
 ![](Data_Model.JPG)
 
 ## Analysis and Visuals
+
 ![](Nestle_Dashboard.JPG)
+
+_For data interaction click [here](https://app.powerbi.com/links/0SYTmuHO1N?ctid=f2c35211-7dad-42d6-b895-25d82fc1f0a2&pbi_source=linkShare)_
 
 **The analysis of Nestle Nig Plc's statement of financial position reveals some important insights that can inform future decision-making:**
 - The company's improved cash ratio of 0.54:1 in 2022 indicates that Nestle Nig plc has greater ability to cover its short-term obligations with its available cash and cash equivalents. This is a positive development, but the company may still need to consider ways to improve its cash flow management and ensure that it has sufficient liquidity to meet its obligations.
